@@ -20,11 +20,11 @@ echo      blender.bat {1} {2} {3} {4}
 echo      where:
 echo            {1} .... path to your blender executable, 
 echo                     example: "C:\Program Files\Blender Foundation\Blender 3.2\blender.exe"
-echo            {2} .... animation frame to export,
+echo            {1} .... animation frame to export,
 echo                     example: 35
-echo            {3} .... input file path (fbx)
+echo            {2} .... input file path (fbx)
 echo                     example: "C:\something\something.fbx"
-echo            {4} .... output file path (stl)
+echo            {3} .... output file path (stl)
 echo                     example: "C:\something\something.stl"
 echo -------------------------------
 echo     PREREQUISITES:
