@@ -3,7 +3,7 @@ Small script that utilizes blender to take specific frame of fbx animation and e
 - Great to use for 3d printing specific pose from mixamo animations
 
 ## How to run
-`blender.bat {1} {2} {3} {4}`
+`convertor.bat {1} {2} {3} {4}`
 
 where:
 - {1} .... path to your blender executable, 
